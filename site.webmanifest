@@ -1,0 +1,15 @@
+{
+  "name": "Ella — baflekcz",
+  "short_name": "Ella",
+  "description": "Správa sociálních sítí, tvorba obsahu a videoeditace.",
+  "lang": "cs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E0C22",
+  "theme_color": "#1E0C22",
+  "icons": [
+    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

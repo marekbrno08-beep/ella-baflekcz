@@ -1,0 +1,6 @@
+# baflek.cz — Ella / baflekcz
+User-agent: *
+Allow: /
+
+# Sem patří skutečná doména (viz README → "Nastavení domény").
+Sitemap: https://www.baflek.cz/sitemap.xml

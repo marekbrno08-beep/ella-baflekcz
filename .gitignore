@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# editory
+.vscode/
+.idea/
+
+# lokální poznámky
+*.local
