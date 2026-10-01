@@ -55,7 +55,8 @@ grep -rn "ZDE_VLOZ_ID\|doplnit\|Jméno klienta" --include='*.html' .
 4. **Tým** – tři karty v sekci *O mně*; jména jsou volitelná, stačí smazat
    `<span class="team__name">`.
 5. **Formuláře** – nastavit `action` (viz níže).
-6. **E-mail** – `ahoj@baflek.cz` nahradit skutečnou adresou.
+6. **E-mail** – nastaven na `ella.socialnisite@gmail.com`; mění se v `index.html`
+   (kontakt a patička) a v `ochrana-osobnich-udaju.html`.
 7. **Ochrana osobních údajů** – doplnit údaje v hranatých závorkách.
 
 ---
